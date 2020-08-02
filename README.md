@@ -1,5 +1,5 @@
 # cluster-CMB-lensing
-We simulated the deflection of CMB by galaxy clusters as part of an internship. The internship was carried out under the supervision Dr Kaustuv Basu.
+As part of an internship, we simulated the deflection of CMB by galaxy clusters. The internship was carried out under the supervision Dr Kaustuv Basu.
 
 ## deflection_angles.ipynb
 In this notebook, we explored the deflection angle profiles around a cluster of given mass present at a certain redshift. We began with discussing two-dimensional deflection angle space around Coma cluster which was followed by the comparison of the deflection profiles by varying the redshift. Then we saw the difference of profiles coming out of two deflection formulae from the literature. Finally, we studied the lensing profiles of NFW and SIS galaxies.
